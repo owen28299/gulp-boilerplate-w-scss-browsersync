@@ -1,6 +1,10 @@
 $dark: hsl(270, 100%, 50%);
-$bckcolor: floralwhite;
+$bckcolor: hsl(60,100%,95%);
 
 body {
-  background-color: $dark;
+  background-color: $bckcolor
+}
+
+h1 {
+  color: $dark;
 }
